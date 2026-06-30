@@ -1,0 +1,24 @@
+[
+
+    {
+        "organization": "UKM PP",
+        "logo":"images/UKMPP.png",
+        "position": "Steering Committee (Equipment Division PIC)",
+        "year": "2024 - Present",
+        "description": "Led the equipment division by coordinating logistics, managing inventory, and ensuring all technical equipment was prepared for student organization events."
+    },
+    {
+        "organization": "UKM PP",
+        "logo":"images/UKMPP.png", 
+        "position": "Staff of Technical Operations (STO)",
+        "year": "2023 - 2024",
+        "description": "Supported technical operations and equipment preparation for various student organization events."
+    },
+    {
+        "organization": "UKM PP",
+        "logo":"images/UKMPP.png",
+        "position": "Active Member",
+        "year": "2022 - 2023",
+        "description": "Participated in organizing student activities and collaborated with team members in event preparation and execution."
+    }
+]

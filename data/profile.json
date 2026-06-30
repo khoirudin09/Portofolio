@@ -1,0 +1,51 @@
+{
+    "name": "Khoirudin - Student in Bachelor of Applied Electronics Engineering Technology",
+    "description": "I am Khoirudin, a final-year Bachelor's student in Electronics Engineering Technology at State Polytechnic of Semarang. I have a strong interest in Robotics, Industrial Automation (PLC), Circuit Analysis, and Digital Control Systems. I enjoy designing intelligent electronic systems and continuously learning new technologies. Currently, I am developing a computer vision-based smoking behavior detection system using YOLO and gesture analysis as my final-year project. I am seeking an opportunity to start my career as an Electrical Engineer and contribute to innovative engineering solutions.",
+    "profileImage": "images/udin.png",
+    "email": "khoirudin@polines.ac.id",
+    "phone": "+62 (812) 3159 5712",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://linkedin.com/in/khoirudin"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/Khoirudin09"
+        }
+
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cv.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+"skills": [
+    {
+        "category": "Programming",
+        "items": [
+            {"name": "C/C++", "icon": "fas fa-code", "level": "Intermediate"},
+            {"name": "Python", "icon": "fab fa-python", "level": "Beginner"},
+            {"name": "MATLAB", "icon": "fas fa-square-root-alt", "level": "Intermediate"}
+        ]
+    },
+    {
+        "category": "Embedded & Electronics",
+        "items": [
+            {"name": "Embedded Systems", "icon": "fas fa-microchip", "level": "Intermediate"},
+            {"name": "Arduino", "icon": "fas fa-microchip", "level": "Advanced"},
+            {"name": "Raspberry Pi Pico", "icon": "fas fa-memory", "level": "Intermediate"},
+            {"name": "PCB Design (EasyEDA)", "icon": "fas fa-microchip", "level": "Intermediate"},
+            {"name": "Circuit Analysis", "icon": "fas fa-bolt", "level": "Intermediate"}
+        ]
+    },
+    {
+        "category": "Automation & AI",
+        "items": [
+            {"name": "PLC Programming", "icon": "fas fa-industry", "level": "Beginner"},
+            {"name": "Internet of Things (IoT)", "icon": "fas fa-wifi", "level": "Intermediate"},
+            {"name": "Computer Vision (YOLO)", "icon": "fas fa-camera", "level": "Beginner"}
+        ]
+    }
+]
+}
