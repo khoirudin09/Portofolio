@@ -1,17 +1,15 @@
 // Load data from JSON files
 async function loadData() {
     try {
-        const [profileData, educationData, experienceData, projectsData] = await Promise.all([
+        const [profileData, educationData, experienceData] = await Promise.all([
             fetch('data/profile.json').then(res => res.json()),
             fetch('data/education.json').then(res => res.json()),
-            fetch('data/experience.json').then(res => res.json()),
-            fetch('data/projects.json').then(res => res.json())
+            fetch('data/experience.json').then(res => res.json())
         ]);
         
         renderProfile(profileData);
         renderEducation(educationData);
         renderExperience(experienceData);
-        renderProjects(projectsData);
         
         // Set current year in footer
         document.getElementById('current-year').textContent = new Date().getFullYear();
